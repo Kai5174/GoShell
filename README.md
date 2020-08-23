@@ -28,7 +28,7 @@ client.exe
 
 ## 效果图
 
-![image-20200823231939322](E:\GoProjects\GoShell\README.assets\image-20200823231939322.png)
+![image-20200823231939322](https://github.com/Kai5174/GoShell/README.assets/image-20200823231939322.png)
 
 
 
